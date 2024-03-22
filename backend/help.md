@@ -17,3 +17,9 @@
     - @types/express : to use express types
     - @types/cors : to use cors types
     - @types/node : to use node types
+
+
+- `npx tsc --init`
+    - to create tsconfig.json file
+
+- `npm run  dev` to start server
