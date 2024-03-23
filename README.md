@@ -20,3 +20,6 @@
     - `npx shadcn-ui@latest add button`
 - `npm run dev` to start the server
 - `npm i react-router-dom`
+
+## Note : Link to snippets file
+    - `https://github.com/chrisblakely01/mern-food-ordering-app-course-resources/blob/main/snippets.code-snippets`
