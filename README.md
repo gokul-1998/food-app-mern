@@ -19,3 +19,4 @@
 - to install a button  component
     - `npx shadcn-ui@latest add button`
 - `npm run dev` to start the server
+- `npm i react-router-dom`
