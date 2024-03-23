@@ -27,3 +27,9 @@
 - `npx shadcn-ui@latest add sheet`
 - `npm i lucide-react`
 - `npx shadcn-ui@latest add separator`
+
+## website for auth0
+    - https://manage.auth0.com/dashboard/us/dev-dbidzea3cz2x22qy/onboarding
+
+
+- `npm i @auth0/auth0-react`
