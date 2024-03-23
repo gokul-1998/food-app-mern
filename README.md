@@ -23,3 +23,7 @@
 
 ## Note : Link to snippets file
     - `https://github.com/chrisblakely01/mern-food-ordering-app-course-resources/blob/main/snippets.code-snippets`
+
+- `npx shadcn-ui@latest add sheet`
+- `npm i lucide-react`
+- `npx shadcn-ui@latest add separator`
