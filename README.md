@@ -33,3 +33,4 @@
 
 
 - `npm i @auth0/auth0-react`
+- `npx shadcn-ui@latest add dropdown-menu`
